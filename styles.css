@@ -1,0 +1,83 @@
+body {
+    background-color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 20px;
+    gap: 30px;
+    box-sizing: border-box;
+    
+}
+
+.social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #222;
+    flex-shrink: 1;
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+header {
+    margin-top: 30px;
+    color: #fff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.jessica-pic {
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+    align-self: stretch;
+    margin-bottom: 15px;
+    /* box-shadow: ; */
+}
+
+h2 {
+    color: rgb(159, 247, 27);
+    margin-top: 8px;
+    padding-top: 6px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+h1 {
+    line-height: 5px;
+}
+
+p {
+    margin-top: 40px;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 200px;
+    
+    
+    
+    
+}
+
+.item-1{
+    color: #fff;
+    background-color: #333;
+    width: 280px;
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+
+
+}
