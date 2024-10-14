@@ -57,7 +57,7 @@ p {
     margin-top: 40px;
 }
 
-.buttons-container {
+.buttonscontainer {
     display: flex;
     flex-direction: column;
     align-items: center;
